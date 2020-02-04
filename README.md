@@ -6,3 +6,9 @@ This is a place to practice Git Collaborations
 * R
 * Git
 * Rmd
+
+New changes to this document
+Back to fruit diagnostics
+
+* kiwis
+* raspberries
